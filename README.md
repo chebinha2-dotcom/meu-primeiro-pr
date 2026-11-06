@@ -12,3 +12,7 @@ Repositório de treino para aprender o fluxo de Pull Requests com GitHub.
 ## Sobre
 
 Este projeto foi criado para praticar o fluxo de contribuição no GitHub.
+
+## Licença
+
+Distribuído sob a licença MIT.
